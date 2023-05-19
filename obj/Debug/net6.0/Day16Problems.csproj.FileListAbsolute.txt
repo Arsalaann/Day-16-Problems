@@ -1,0 +1,15 @@
+/home/luser/pgming/Day16Problems/obj/Debug/net6.0/Day16Problems.csproj.AssemblyReference.cache
+/home/luser/pgming/Day16Problems/obj/Debug/net6.0/Day16Problems.GeneratedMSBuildEditorConfig.editorconfig
+/home/luser/pgming/Day16Problems/obj/Debug/net6.0/Day16Problems.AssemblyInfoInputs.cache
+/home/luser/pgming/Day16Problems/obj/Debug/net6.0/Day16Problems.AssemblyInfo.cs
+/home/luser/pgming/Day16Problems/obj/Debug/net6.0/Day16Problems.csproj.CoreCompileInputs.cache
+/home/luser/pgming/Day16Problems/bin/Debug/net6.0/Day16Problems
+/home/luser/pgming/Day16Problems/bin/Debug/net6.0/Day16Problems.deps.json
+/home/luser/pgming/Day16Problems/bin/Debug/net6.0/Day16Problems.runtimeconfig.json
+/home/luser/pgming/Day16Problems/bin/Debug/net6.0/Day16Problems.dll
+/home/luser/pgming/Day16Problems/bin/Debug/net6.0/ref/Day16Problems.dll
+/home/luser/pgming/Day16Problems/bin/Debug/net6.0/Day16Problems.pdb
+/home/luser/pgming/Day16Problems/obj/Debug/net6.0/Day16Problems.dll
+/home/luser/pgming/Day16Problems/obj/Debug/net6.0/ref/Day16Problems.dll
+/home/luser/pgming/Day16Problems/obj/Debug/net6.0/Day16Problems.pdb
+/home/luser/pgming/Day16Problems/obj/Debug/net6.0/Day16Problems.genruntimeconfig.cache
