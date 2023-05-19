@@ -20,7 +20,8 @@ namespace Day16Problems{
             for(int i=0;i<n;i++)
             	arr[i]=Console.ReadLine();
             Sort sort=new Sort();
-            sort.InsertionSort(arr);
+            //sort.InsertionSort(arr);
+            sort.BubbleSort(arr);
         }
     }
 }
